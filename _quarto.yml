@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Teevial - LORI WATER QUALITY PILOT PROJECT"
+  title: "Teevial"
   navbar:
     left:
       - href: index.qmd

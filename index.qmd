@@ -1,5 +1,5 @@
 ---
-title: "Teevial - LORI WATER QUALITY PILOT PROJECT"
+title: "Teevial"
 ---
 
 This is a Quarto website.
