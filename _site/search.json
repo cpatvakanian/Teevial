@@ -4,13 +4,69 @@
     "href": "index.html",
     "title": "Teevial",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "In January 2025, Teevial conducted a pilot project at Gyulagarak High School in Lori, Armenia, to assess youth perceptions of water cleanliness and environmental issues in their community. This initiative aimed to collect data on local water quality perceptions, introduce students to data-driven problem-solving, and align with Teevial’s mission of engaging rural youth in evidence-based community improvement.\n\n\n\n\nThe survey included 47 students from grades 9-12, primarily from Gyulagarak, with a few participants from nearby villages. The sample size provided a strong representation of the school’s student population.\n\n\n\nMost students (80.9%) reported having access to piped water at home, with a majority perceiving their drinking water as safe. Among those who treated their water, 42% relied on boiling. Over the past five years, 68% of students believed water quality remained stable, while 25% thought it had improved.\n\n\n\nThe Dzoraget River was the most frequently encountered natural water source. The majority (68.1%) perceived natural water as acceptable in quality, with 70.2% believing its cleanliness had remained consistent or improved over time.\n\n\n\nStudents highlighted environmental issues, limited access to quality education, and rural stereotypes as primary concerns. Youth advocacy interest was strong, with 60% expressing a desire for continued engagement with Teevial."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Teevial was founded in 2024 by Aram Badgassarian and Cristopher Patvakanian. Through their combined skills in youth activism and data science, they hope to create an organization that will help other young Armenians realize their potential and use data to drive meaningful change in their communities.\nAram Bagdasarian is a researcher and an upcoming data scientist. He is currently a sophomore at Harvard University, studying Government and Statistics. Aram is interested in understanding the pillars of ecological, scientific, and economic problems in Armenia through empirical research.\nCristopher Patvakanian is a data scientist, researcher, and writer originally from Boston, Massachusetts, USA. He is a graduate of Harvard University’s Economics department and is passionate about using data to solve important problems of the world."
+  },
+  {
+    "objectID": "index.html#key-findings",
+    "href": "index.html#key-findings",
+    "title": "Teevial",
+    "section": "",
+    "text": "The survey included 47 students from grades 9-12, primarily from Gyulagarak, with a few participants from nearby villages. The sample size provided a strong representation of the school’s student population.\n\n\n\nMost students (80.9%) reported having access to piped water at home, with a majority perceiving their drinking water as safe. Among those who treated their water, 42% relied on boiling. Over the past five years, 68% of students believed water quality remained stable, while 25% thought it had improved.\n\n\n\nThe Dzoraget River was the most frequently encountered natural water source. The majority (68.1%) perceived natural water as acceptable in quality, with 70.2% believing its cleanliness had remained consistent or improved over time.\n\n\n\nStudents highlighted environmental issues, limited access to quality education, and rural stereotypes as primary concerns. Youth advocacy interest was strong, with 60% expressing a desire for continued engagement with Teevial."
+  },
+  {
+    "objectID": "demographics.html",
+    "href": "demographics.html",
+    "title": "Demographics",
+    "section": "",
+    "text": "The students who were surveyed in the high school ranged from grades 9-12, and their age spanned from 14 to 18 years old.\nMost all participants were from Gyulagarak, with the exception of 2 students that commuted from the nearby villages of Pushkino and Hobartsi.\nThe total sample size of participants was 47 out of roughly 60 students who were in the target age/grade range for our pilot project. With this group, we’re about 80% sure that our results are accurate within 5% of what we would find if every eligible student had participated. For the purpose of a pilot project, we found this sample to be sufficient for our initial exploratory objective to have a rough understanding of the youth’s perception and sentiment on water quality."
+  },
+  {
+    "objectID": "demographics.html#demographic-data",
+    "href": "demographics.html#demographic-data",
+    "title": "Demographics",
+    "section": "",
+    "text": "The students who were surveyed in the high school ranged from grades 9-12, and their age spanned from 14 to 18 years old.\nMost all participants were from Gyulagarak, with the exception of 2 students that commuted from the nearby villages of Pushkino and Hobartsi.\nThe total sample size of participants was 47 out of roughly 60 students who were in the target age/grade range for our pilot project. With this group, we’re about 80% sure that our results are accurate within 5% of what we would find if every eligible student had participated. For the purpose of a pilot project, we found this sample to be sufficient for our initial exploratory objective to have a rough understanding of the youth’s perception and sentiment on water quality."
+  },
+  {
+    "objectID": "waterhome.html",
+    "href": "waterhome.html",
+    "title": "Water in The Home",
+    "section": "",
+    "text": "The survey showed that most students (80.9%) do have access to piped water at home, and the majority did not apply any treatment to make that water safe. For those that did use treatments, 42% reported the primary method was boiling.\nOver the course of the past 5 years, 68% of students thought the cleanliness of drinking water had stayed the same and 25% reported that it improved. As a whole, the overwhelming majority of students had a positive perception of their home water quality and safety, which is a positive sign."
+  },
+  {
+    "objectID": "waterhome.html#demographic-data",
+    "href": "waterhome.html#demographic-data",
+    "title": "Water in The Home",
+    "section": "",
+    "text": "The students who were surveyed in the high school ranged from grades 9-12, and their age spanned from 14 to 18 years old.\nMost all participants were from Gyulagarak, with the exception of 2 students that commuted from the nearby villages of Pushkino and Hobartsi.\nThe total sample size of participants was 47 out of roughly 60 students who were in the target age/grade range for our pilot project. With this group, we’re about 80% sure that our results are accurate within 5% of what we would find if every eligible student had participated. For the purpose of a pilot project, we found this sample to be sufficient for our initial exploratory objective to have a rough understanding of the youth’s perception and sentiment on water quality."
+  },
+  {
+    "objectID": "waterhome.html#water-in-the-home",
+    "href": "waterhome.html#water-in-the-home",
+    "title": "Water in The Home",
+    "section": "",
+    "text": "The survey showed that most students (80.9%) do have access to piped water at home, and the majority did not apply any treatment to make that water safe. For those that did use treatments, 42% reported the primary method was boiling.\nOver the course of the past 5 years, 68% of students thought the cleanliness of drinking water had stayed the same and 25% reported that it improved. As a whole, the overwhelming majority of students had a positive perception of their home water quality and safety, which is a positive sign."
+  },
+  {
+    "objectID": "waternature.html",
+    "href": "waternature.html",
+    "title": "Water in Nature",
+    "section": "",
+    "text": "With regard to natural water, almost all the students reported spending at least two days a week outside, and the most frequently encountered source of water was “River”. When asked about the quality of natural water, again the majority responded positively, with 68.1% stating it is of acceptable quality.\nThe perception of cleanliness over time also points toward a satisfactory feeling, with 70.2% saying the water was either the same and 19.1% saying it had improved over the course of the past 5 years."
+  },
+  {
+    "objectID": "waternature.html#water-in-nature",
+    "href": "waternature.html#water-in-nature",
+    "title": "Water in Nature",
+    "section": "",
+    "text": "With regard to natural water, almost all the students reported spending at least two days a week outside, and the most frequently encountered source of water was “River”. When asked about the quality of natural water, again the majority responded positively, with 68.1% stating it is of acceptable quality.\nThe perception of cleanliness over time also points toward a satisfactory feeling, with 70.2% saying the water was either the same and 19.1% saying it had improved over the course of the past 5 years."
   }
 ]

@@ -2,6 +2,21 @@
 title: "Teevial"
 ---
 
-This is a Quarto website.
+# **Introduction**
+In January 2025, Teevial conducted a pilot project at Gyulagarak High School in Lori, Armenia, to assess youth perceptions of water cleanliness and environmental issues in their community. This initiative aimed to collect data on local water quality perceptions, introduce students to data-driven problem-solving, and align with Teevial’s mission of engaging rural youth in evidence-based community improvement.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## **Key Findings**
+
+### **Demographics**
+The survey included 47 students from grades 9-12, primarily from Gyulagarak, with a few participants from nearby villages. The sample size provided a strong representation of the school’s student population.
+
+### **Water in the Home**
+Most students (80.9%) reported having access to piped water at home, with a majority perceiving their drinking water as safe. Among those who treated their water, 42% relied on boiling. Over the past five years, 68% of students believed water quality remained stable, while 25% thought it had improved.
+
+### **Natural Water Sources**
+The Dzoraget River was the most frequently encountered natural water source. The majority (68.1%) perceived natural water as acceptable in quality, with 70.2% believing its cleanliness had remained consistent or improved over time.
+
+### **Community Interests and Concerns**
+
+Students highlighted environmental issues, limited access to quality education, and rural stereotypes as primary concerns. Youth advocacy interest was strong, with 60% expressing a desire for continued engagement with Teevial.
+

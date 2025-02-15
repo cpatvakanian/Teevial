@@ -2,4 +2,10 @@
 title: "About"
 ---
 
-About this site
+Teevial was founded in 2024 by Aram Badgassarian and Cristopher Patvakanian. Through their combined skills in youth activism and data science, they hope to create an organization that will help other young Armenians realize their potential and use data to drive meaningful change in their communities.
+
+Aram Bagdasarian is a researcher and an upcoming data scientist. He is currently a sophomore at Harvard University, studying Government and Statistics. Aram is interested in understanding the pillars of ecological, scientific, and economic problems in Armenia through empirical research.
+
+Cristopher Patvakanian is a data scientist, researcher, and writer originally from Boston, Massachusetts, USA. He is a graduate of Harvard University’s Economics department and is passionate about using data to solve important problems of the world.
+
+
