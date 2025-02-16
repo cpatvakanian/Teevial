@@ -10,13 +10,14 @@ website:
       - demographics.qmd
       - waterhome.qmd
       - waternature.qmd
+      - interests.qmd
       - about.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 
