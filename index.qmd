@@ -1,9 +1,7 @@
 ---
-title: "Teevial"
+title: "Teevial Water Pilot Project"
 ---
-
-# **Introduction**
-In January 2025, Teevial conducted a pilot project at Gyulagarak High School in Lori, Armenia, to assess youth perceptions of water cleanliness and environmental issues in their community. This initiative aimed to collect data on local water quality perceptions, introduce students to data-driven problem-solving, and align with Teevial’s mission of engaging rural youth in evidence-based community improvement.
+In January 2025, [Teevial](https://teevial.com) conducted a pilot project at Gyulagarak High School in Lori, Armenia, to assess youth perceptions of water cleanliness and environmental issues in their community. This initiative aimed to collect data on local water quality perceptions, introduce students to data-driven problem-solving, and align with Teevial’s mission of engaging rural youth in evidence-based community improvement. The anonymized data for this project can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1o2KU1biNs_Z6OnDYHtzEK8xa9sHAsKA-/edit?usp=sharing&ouid=101354750474980222561&rtpof=true&sd=true) and the code is located on this [Github](https://github.com/cpatvakanian/Teevial) page.
 
 ## **Key Findings**
 

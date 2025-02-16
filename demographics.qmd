@@ -3,7 +3,9 @@ title: "Demographics"
 ---
 The total sample size of participants was 47 out of roughly 60 students who were in the target age/grade range for our pilot project. 
 
-With this group, we’re about 80% sure that our results are accurate within 5% of what we would find if every eligible student had participated. For the purpose of a pilot project, we found this sample to be sufficient for our initial exploratory objective to have a rough understanding of the youth’s perception and sentiment on water quality.
+With this group, we’re about 80% sure that our results are accurate within 5% of what we would find if every eligible student had participated, based on a [standard sample size calculation](https://www.calculator.net/sample-size-calculator.html?type=1&cl=80&ci=5&pp=47&ps=60&x=Calculate).
+
+For the purpose of a pilot project, we found this sample to be sufficient for our initial exploratory objective to have a rough understanding of the youth’s perception and sentiment of water quality.
 
 ### Age
 
